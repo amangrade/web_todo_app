@@ -1,0 +1,3 @@
+watch videos
+learn chess
+deploy the app
